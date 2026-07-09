@@ -1,4 +1,4 @@
-# Catalog Item Layout Plugin
+# Morpheus Catalog Item Layout Plugin
 
 This plugin provides additional layout selections for catalog items during creation and editing in the Morpheus UI. It adds a `Layout` field to the catalog item form, allowing users to choose how the content and form are arranged.
 
